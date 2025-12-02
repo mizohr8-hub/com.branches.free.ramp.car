@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 08a4a81eab1ad384e8dd3ab7d2af67df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: carrier_blastplate_1_LOD0
+    100004: carrier_blastplate_1_pivot
+    100006: carrier_blastplate_2_LOD0
+    100008: carrier_blastplate_2_pivot
+    100010: carrier_blastplate_3_LOD0
+    100012: carrier_blastplate_3_pivot
+    100014: carrier_hull_LOD0
+    100016: carrier_lift_1_LOD0
+    100018: carrier_lift_1_pivot
+    100020: carrier_lift_2_LOD0
+    100022: carrier_lift_2_pivot
+    100024: carrier_lift_3_LOD0
+    100026: carrier_lift_3_pivot
+    100028: carrier_lift_4_LOD0
+    100030: carrier_lift_4_pivot
+    100032: carrier_root
+    100034: runway
+    400000: //RootNode
+    400002: carrier_blastplate_1_LOD0
+    400004: carrier_blastplate_1_pivot
+    400006: carrier_blastplate_2_LOD0
+    400008: carrier_blastplate_2_pivot
+    400010: carrier_blastplate_3_LOD0
+    400012: carrier_blastplate_3_pivot
+    400014: carrier_hull_LOD0
+    400016: carrier_lift_1_LOD0
+    400018: carrier_lift_1_pivot
+    400020: carrier_lift_2_LOD0
+    400022: carrier_lift_2_pivot
+    400024: carrier_lift_3_LOD0
+    400026: carrier_lift_3_pivot
+    400028: carrier_lift_4_LOD0
+    400030: carrier_lift_4_pivot
+    400032: carrier_root
+    400034: runway
+    2300000: carrier_blastplate_1_LOD0
+    2300002: carrier_blastplate_2_LOD0
+    2300004: carrier_blastplate_3_LOD0
+    2300006: carrier_hull_LOD0
+    2300008: carrier_lift_1_LOD0
+    2300010: carrier_lift_2_LOD0
+    2300012: carrier_lift_3_LOD0
+    2300014: carrier_lift_4_LOD0
+    2300016: runway
+    3300000: carrier_blastplate_1_LOD0
+    3300002: carrier_blastplate_2_LOD0
+    3300004: carrier_blastplate_3_LOD0
+    3300006: carrier_hull_LOD0
+    3300008: carrier_lift_1_LOD0
+    3300010: carrier_lift_2_LOD0
+    3300012: carrier_lift_3_LOD0
+    3300014: carrier_lift_4_LOD0
+    3300016: runway
+    4300000: carrier_lift_3_LOD0
+    4300002: carrier_lift_2_LOD0
+    4300004: carrier_lift_1_LOD0
+    4300006: carrier_lift_4_LOD0
+    4300008: carrier_hull_LOD0
+    4300010: carrier_blastplate_1_LOD0
+    4300012: carrier_blastplate_3_LOD0
+    4300014: carrier_blastplate_2_LOD0
+    4300016: runway
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrier
+    second: {fileID: 2100000, guid: 276af43759a5c0a4bb51b1db0de85649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrier1
+    second: {fileID: 2100000, guid: 3d9a1ec58b5ddde4995c93b84415c9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrier_deck
+    second: {fileID: 2100000, guid: d760ab9df57dfc041b01c3a172731ad8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.015000001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

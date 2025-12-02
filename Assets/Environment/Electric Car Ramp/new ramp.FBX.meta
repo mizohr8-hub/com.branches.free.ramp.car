@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 2a21b721e2e571d4f8283501e366f317
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 01 - Default
+    100002: Curved_Platform_03__10_
+    100004: Curved_Platform_03__9_
+    100006: Half_Arc01__3_
+    100008: Line001
+    100010: //RootNode
+    100012: Red_Container__47_
+    100014: Round_Platform_01
+    100016: Round_Platform_01__1_
+    100018: Straight_Platform__19_
+    100020: Straight_Platform__19_001
+    100022: Straight_Platform__20_
+    100024: Straight_Platform__46_
+    400000: 01 - Default
+    400002: Curved_Platform_03__10_
+    400004: Curved_Platform_03__9_
+    400006: Half_Arc01__3_
+    400008: Line001
+    400010: //RootNode
+    400012: Red_Container__47_
+    400014: Round_Platform_01
+    400016: Round_Platform_01__1_
+    400018: Straight_Platform__19_
+    400020: Straight_Platform__19_001
+    400022: Straight_Platform__20_
+    400024: Straight_Platform__46_
+    2100000: 'Material #29'
+    2100002: 'Material #31'
+    2100004: 01 - Default
+    2100006: containers_diffuse
+    2100008: 'Material #28'
+    2100010: 'Material #27'
+    2100012: 'Material #30'
+    2100014: 'Material #34'
+    2100016: 'Material #35'
+    2300000: Curved_Platform_03__10_
+    2300002: Curved_Platform_03__9_
+    2300004: Half_Arc01__3_
+    2300006: Line001
+    2300008: Red_Container__47_
+    2300010: Round_Platform_01
+    2300012: Round_Platform_01__1_
+    2300014: Straight_Platform__19_
+    2300016: Straight_Platform__19_001
+    2300018: Straight_Platform__20_
+    2300020: Straight_Platform__46_
+    3300000: Curved_Platform_03__10_
+    3300002: Curved_Platform_03__9_
+    3300004: Half_Arc01__3_
+    3300006: Line001
+    3300008: Red_Container__47_
+    3300010: Round_Platform_01
+    3300012: Round_Platform_01__1_
+    3300014: Straight_Platform__19_
+    3300016: Straight_Platform__19_001
+    3300018: Straight_Platform__20_
+    3300020: Straight_Platform__46_
+    4300000: Straight_Platform__46_
+    4300002: Round_Platform_01__1_
+    4300004: Round_Platform_01
+    4300006: Red_Container__47_
+    4300008: Straight_Platform__20_
+    4300010: Straight_Platform__19_
+    4300012: Half_Arc01__3_
+    4300014: Curved_Platform_03__10_
+    4300016: Curved_Platform_03__9_
+    4300018: Straight_Platform__19_001
+    4300020: Line001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 6fc5e905eaaff9d429867eb4143e8ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 517546b8f884acf4f9736cb258be34c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 9975ec8130050524ab57192db0577bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 452e24c12907ad14983d64f95718d243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 2e827d8157f27ed448923bf8febcbfd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 14d78083345e82a4280c6939b05df8a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: 76064ac7596ab834d89247f9ba8441fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 69ae7f61d8054bf4bb86ad54ec817f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: containers_diffuse
+    second: {fileID: 2100000, guid: fa5e095d7184d0f4a872cca6816b2adc, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Plate_018_basecolor texture
+    second: {fileID: 2800000, guid: dab0a5449310ef24b98dea48c76fb3b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Plate_041_basecolor
+    second: {fileID: 2800000, guid: fe15e7f9b801b0f45a0c11b28ce910d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Qac1GGFTxr
+    second: {fileID: 2800000, guid: 1eb1d8140cc28aa43a5a2adaf103493a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sci-Fi-Floor-Diffuse tex
+    second: {fileID: 2800000, guid: 489ed34072fc9f34890fa77d8f808cd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Scifi_Floor2_1K_albedo
+    second: {fileID: 2800000, guid: dc85a5790812ca4498e07cdef7a29af3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Scifi_Floor_1K_albedo texture
+    second: {fileID: 2800000, guid: edb9a5e3f5721ef40b75cf92c1d4e0cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Scifi_Panel2_Green_1K_albedo
+    second: {fileID: 2800000, guid: a06c2c6621b8837408941c43f1493768, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Scifi_Panel2_Red_1K_albedo
+    second: {fileID: 2800000, guid: a32a1e8f12861be448096698d8c4e416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: containers_diffuse
+    second: {fileID: 2800000, guid: 0d1b764c065f92f4283c8fc99248d5ba, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

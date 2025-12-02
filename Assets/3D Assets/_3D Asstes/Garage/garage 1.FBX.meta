@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 50cf4515576f7e34c98ea4491fde2207
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: -DC_Shell
+    100002: -DC_Shell 1
+    100004: -DC_Shell 2
+    100006: //RootNode
+    100008: Garage_A_Ceiling_Light_00
+    100010: Garage_A_Ceiling_Light_01
+    100012: Garage_A_Ceiling_Light_02
+    100014: Garage_A_Ceiling_Light_03
+    100016: Garage_A_Ceiling_Light_04
+    100018: Garage_A_Ceiling_Light_05
+    100020: Garage_A_Ceiling_Light_06
+    100022: Garage_A_Ceiling_Light_07
+    100024: Garage_A_Ceiling_round_walls
+    100026: Garage_A_Ceiling_round_walls_SI
+    100028: Garage_A_Ground_Ceiling
+    100030: Garage_A_Stage_Rounded
+    100032: Garage_A_Stage_Rounded_SI
+    100034: Garage_A_Walls_Round
+    100036: Line001
+    100038: Line002
+    100040: Line003
+    400000: -DC_Shell
+    400002: -DC_Shell 1
+    400004: -DC_Shell 2
+    400006: //RootNode
+    400008: Garage_A_Ceiling_Light_00
+    400010: Garage_A_Ceiling_Light_01
+    400012: Garage_A_Ceiling_Light_02
+    400014: Garage_A_Ceiling_Light_03
+    400016: Garage_A_Ceiling_Light_04
+    400018: Garage_A_Ceiling_Light_05
+    400020: Garage_A_Ceiling_Light_06
+    400022: Garage_A_Ceiling_Light_07
+    400024: Garage_A_Ceiling_round_walls
+    400026: Garage_A_Ceiling_round_walls_SI
+    400028: Garage_A_Ground_Ceiling
+    400030: Garage_A_Stage_Rounded
+    400032: Garage_A_Stage_Rounded_SI
+    400034: Garage_A_Walls_Round
+    400036: Line001
+    400038: Line002
+    400040: Line003
+    2100000: 08 - Default
+    2100002: charging station
+    2100004: No Name
+    2100006: 'Material #2233804'
+    2100008: 'Material #2233674'
+    2100010: 'Material #2233676'
+    2100012: 'Material #2233679'
+    2100014: 05 - Default
+    2100016: 'Material #2232883'
+    2100018: wall
+    2100020: 'Material #287'
+    2100022: ramp
+    2100024: floor
+    2300000: -DC_Shell
+    2300002: -DC_Shell 1
+    2300004: -DC_Shell 2
+    2300006: Garage_A_Ceiling_Light_00
+    2300008: Garage_A_Ceiling_Light_01
+    2300010: Garage_A_Ceiling_Light_02
+    2300012: Garage_A_Ceiling_Light_03
+    2300014: Garage_A_Ceiling_Light_04
+    2300016: Garage_A_Ceiling_Light_05
+    2300018: Garage_A_Ceiling_Light_06
+    2300020: Garage_A_Ceiling_Light_07
+    2300022: Garage_A_Ceiling_round_walls
+    2300024: Garage_A_Ceiling_round_walls_SI
+    2300026: Garage_A_Ground_Ceiling
+    2300028: Garage_A_Stage_Rounded
+    2300030: Garage_A_Stage_Rounded_SI
+    2300032: Garage_A_Walls_Round
+    2300034: Line001
+    2300036: Line002
+    2300038: Line003
+    3300000: -DC_Shell
+    3300002: -DC_Shell 1
+    3300004: -DC_Shell 2
+    3300006: Garage_A_Ceiling_Light_00
+    3300008: Garage_A_Ceiling_Light_01
+    3300010: Garage_A_Ceiling_Light_02
+    3300012: Garage_A_Ceiling_Light_03
+    3300014: Garage_A_Ceiling_Light_04
+    3300016: Garage_A_Ceiling_Light_05
+    3300018: Garage_A_Ceiling_Light_06
+    3300020: Garage_A_Ceiling_Light_07
+    3300022: Garage_A_Ceiling_round_walls
+    3300024: Garage_A_Ceiling_round_walls_SI
+    3300026: Garage_A_Ground_Ceiling
+    3300028: Garage_A_Stage_Rounded
+    3300030: Garage_A_Stage_Rounded_SI
+    3300032: Garage_A_Walls_Round
+    3300034: Line001
+    3300036: Line002
+    3300038: Line003
+    4300000: Line002
+    4300002: -DC_Shell
+    4300004: -DC_Shell
+    4300006: -DC_Shell
+    4300008: Line001
+    4300010: Line003
+    4300012: Garage_A_Stage_Rounded_SI
+    4300014: Garage_A_Ceiling_round_walls_SI
+    4300016: Garage_A_Ceiling_Light_07
+    4300018: Garage_A_Ceiling_Light_06
+    4300020: Garage_A_Ceiling_Light_05
+    4300022: Garage_A_Ceiling_Light_04
+    4300024: Garage_A_Ceiling_Light_03
+    4300026: Garage_A_Ceiling_Light_02
+    4300028: Garage_A_Ceiling_Light_01
+    4300030: Garage_A_Ceiling_Light_00
+    4300032: Garage_A_Walls_Round
+    4300034: Garage_A_Ceiling_round_walls
+    4300036: Garage_A_Stage_Rounded
+    4300038: Garage_A_Ground_Ceiling
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 54a04bf327c4c4a4eb416c29254d3c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: c3e0929d2f3863b48b08c03d1467ed0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2232883'
+    second: {fileID: 2100000, guid: e819cdf69befd154795fb40d57032f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2233674'
+    second: {fileID: 2100000, guid: 46ce9a1b7e261964e8142cdcd1ea84af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2233676'
+    second: {fileID: 2100000, guid: 2d7aff63cb1ed3745939f5982bbd36c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2233679'
+    second: {fileID: 2100000, guid: eb3b2abe98f22fa46a88a551d27ad09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2233804'
+    second: {fileID: 2100000, guid: b4c07db1e6fb3c34aa8be2ceae99e169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #287'
+    second: {fileID: 2100000, guid: d0856c3c44affcd4eb16598f7fa58eb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a7add7556acadce4f828263f721e4767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: charging station
+    second: {fileID: 2100000, guid: cfaeec6fad152e04c8932d7864230f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 6b245b0c0cb0d304a9fb94a7077d7e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ramp
+    second: {fileID: 2100000, guid: 1ba1738ac3f7883438baae0280240572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: ba8bdb81278bcd44980a416cb52bb8ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

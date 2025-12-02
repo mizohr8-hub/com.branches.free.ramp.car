@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: a7b3a0e6532cce7439fbd10a35633774
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Lamboo 1
+    100002: Lamboo Back Bumper
+    100004: Lamboo Bumper
+    100006: Lamboo FL
+    100008: Lamboo FR
+    100010: Lamboo L Door
+    100012: Lamboo R Door
+    100014: Lamboo RL
+    100016: Lamboo RR
+    100018: //RootNode
+    400000: Lamboo 1
+    400002: Lamboo Back Bumper
+    400004: Lamboo Bumper
+    400006: Lamboo FL
+    400008: Lamboo FR
+    400010: Lamboo L Door
+    400012: Lamboo R Door
+    400014: Lamboo RL
+    400016: Lamboo RR
+    400018: //RootNode
+    2100000: F40 Car
+    2300000: Lamboo 1
+    2300002: Lamboo Back Bumper
+    2300004: Lamboo Bumper
+    2300006: Lamboo FL
+    2300008: Lamboo FR
+    2300010: Lamboo L Door
+    2300012: Lamboo R Door
+    2300014: Lamboo RL
+    2300016: Lamboo RR
+    3300000: Lamboo 1
+    3300002: Lamboo Back Bumper
+    3300004: Lamboo Bumper
+    3300006: Lamboo FL
+    3300008: Lamboo FR
+    3300010: Lamboo L Door
+    3300012: Lamboo R Door
+    3300014: Lamboo RL
+    3300016: Lamboo RR
+    4300000: Lamboo FL
+    4300002: Lamboo FR
+    4300004: Lamboo RL
+    4300006: Lamboo RR
+    4300008: Lamboo L Door
+    4300010: Lamboo R Door
+    4300012: Lamboo Bumper
+    4300014: Lamboo Back Bumper
+    4300016: Lamboo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 350
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

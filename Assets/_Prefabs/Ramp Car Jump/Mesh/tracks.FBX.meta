@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 4ba49764c67301041930520a60414dca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Center_Bend_Border
+    100002: Center_Bend_Road
+    100004: Hegxagon
+    100006: Hegxagon_Border
+    100008: One_Side_Bend_Border
+    100010: One_Side_Bend_Road
+    100012: Straight_Road
+    100014: Straight_Road_Border
+    100016: //RootNode
+    400000: Center_Bend_Border
+    400002: Center_Bend_Road
+    400004: Hegxagon
+    400006: Hegxagon_Border
+    400008: One_Side_Bend_Border
+    400010: One_Side_Bend_Road
+    400012: Straight_Road
+    400014: Straight_Road_Border
+    400016: //RootNode
+    2100000: Road_Plan
+    2100002: Road_With_Checkers
+    2300000: Center_Bend_Border
+    2300002: Center_Bend_Road
+    2300004: Hegxagon
+    2300006: Hegxagon_Border
+    2300008: One_Side_Bend_Border
+    2300010: One_Side_Bend_Road
+    2300012: Straight_Road
+    2300014: Straight_Road_Border
+    3300000: Center_Bend_Border
+    3300002: Center_Bend_Road
+    3300004: Hegxagon
+    3300006: Hegxagon_Border
+    3300008: One_Side_Bend_Border
+    3300010: One_Side_Bend_Road
+    3300012: Straight_Road
+    3300014: Straight_Road_Border
+    4300000: Hegxagon
+    4300002: Straight_Road
+    4300004: Center_Bend_Road
+    4300006: One_Side_Bend_Road
+    4300008: Straight_Road_Border
+    4300010: Hegxagon_Border
+    4300012: Center_Bend_Border
+    4300014: One_Side_Bend_Border
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_Plan
+    second: {fileID: 2100000, guid: bcfcef96c320d30409b16aa354de5a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_With_Checkers
+    second: {fileID: 2100000, guid: bcfcef96c320d30409b16aa354de5a8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

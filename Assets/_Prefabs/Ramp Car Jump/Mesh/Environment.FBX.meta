@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6bd8bcd016a984843ad0ce88857dc6fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Building_Chunk_01
+    100002: Building_Chunk_02
+    100004: Building_Chunk_03
+    100006: Building_Chunk_04
+    100008: Building_Chunk_05
+    100010: Building_Chunk_06
+    100012: Building_Chunk_07
+    100014: Building_Chunk_08
+    100016: Building_Chunk_09
+    100018: Building_Chunk_10
+    100020: Building_Chunk_11
+    100022: Building_Chunk_12
+    100024: //RootNode
+    100026: Ground
+    100028: Palm_Tree
+    100030: Tree_Base
+    400000: Building_Chunk_01
+    400002: Building_Chunk_02
+    400004: Building_Chunk_03
+    400006: Building_Chunk_04
+    400008: Building_Chunk_05
+    400010: Building_Chunk_06
+    400012: Building_Chunk_07
+    400014: Building_Chunk_08
+    400016: Building_Chunk_09
+    400018: Building_Chunk_10
+    400020: Building_Chunk_11
+    400022: Building_Chunk_12
+    400024: //RootNode
+    400026: Ground
+    400028: Palm_Tree
+    400030: Tree_Base
+    2100000: Concrete
+    2100002: Grass_A
+    2100004: Road
+    2100006: Atlas_A
+    2300000: Building_Chunk_01
+    2300002: Building_Chunk_02
+    2300004: Building_Chunk_03
+    2300006: Building_Chunk_04
+    2300008: Building_Chunk_05
+    2300010: Building_Chunk_06
+    2300012: Building_Chunk_07
+    2300014: Building_Chunk_08
+    2300016: Building_Chunk_09
+    2300018: Building_Chunk_10
+    2300020: Building_Chunk_11
+    2300022: Building_Chunk_12
+    2300024: Ground
+    2300026: Palm_Tree
+    2300028: Tree_Base
+    3300000: Building_Chunk_01
+    3300002: Building_Chunk_02
+    3300004: Building_Chunk_03
+    3300006: Building_Chunk_04
+    3300008: Building_Chunk_05
+    3300010: Building_Chunk_06
+    3300012: Building_Chunk_07
+    3300014: Building_Chunk_08
+    3300016: Building_Chunk_09
+    3300018: Building_Chunk_10
+    3300020: Building_Chunk_11
+    3300022: Building_Chunk_12
+    3300024: Ground
+    3300026: Palm_Tree
+    3300028: Tree_Base
+    4300000: Ground
+    4300002: Building_Chunk_01
+    4300004: Building_Chunk_02
+    4300006: Building_Chunk_03
+    4300008: Building_Chunk_04
+    4300010: Building_Chunk_05
+    4300012: Building_Chunk_06
+    4300014: Building_Chunk_07
+    4300016: Building_Chunk_08
+    4300018: Building_Chunk_09
+    4300020: Building_Chunk_10
+    4300022: Building_Chunk_11
+    4300024: Building_Chunk_12
+    4300026: Palm_Tree
+    4300028: Tree_Base
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_A
+    second: {fileID: 2100000, guid: a190d9ea8f252ea4baaee7b76723f8d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 8fe8bd1949acf2f41a333996319e0f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_A
+    second: {fileID: 2100000, guid: 94d7c4062954a3b4aa15c73838206320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: a190d9ea8f252ea4baaee7b76723f8d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

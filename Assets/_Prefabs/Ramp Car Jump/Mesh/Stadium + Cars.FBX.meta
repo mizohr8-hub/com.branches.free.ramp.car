@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: d664b10d95c56b648b541296e5a244a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Car
+    100002: Lamboo
+    100004: Lamboo FL
+    100006: Lamboo FR
+    100008: Lamboo RL
+    100010: Lamboo RR
+    100012: Mini Bus
+    100014: Police car
+    100016: Stadium
+    100018: //RootNode
+    100020: Stadium 1
+    100022: Stage
+    100024: Super Car
+    100026: Super car FL
+    100028: Super Car FR
+    100030: Super Car RL
+    100032: Super Car RR
+    100034: TEsla
+    100036: Tesla FL
+    100038: TEsla FR
+    100040: TEsla RL
+    100042: Tesla RR
+    400000: Car
+    400002: Lamboo
+    400004: Lamboo FL
+    400006: Lamboo FR
+    400008: Lamboo RL
+    400010: Lamboo RR
+    400012: Mini Bus
+    400014: Police car
+    400016: Stadium
+    400018: //RootNode
+    400020: Stadium 1
+    400022: Stage
+    400024: Super Car
+    400026: Super car FL
+    400028: Super Car FR
+    400030: Super Car RL
+    400032: Super Car RR
+    400034: TEsla
+    400036: Tesla FL
+    400038: TEsla FR
+    400040: TEsla RL
+    400042: Tesla RR
+    2100000: Stadium
+    2100002: F40 Car
+    2100004: 3 Lowpoly Cars
+    2300000: Car
+    2300002: Lamboo
+    2300004: Lamboo FL
+    2300006: Lamboo FR
+    2300008: Lamboo RL
+    2300010: Lamboo RR
+    2300012: Mini Bus
+    2300014: Police car
+    2300016: Stadium
+    2300018: Stage
+    2300020: Super Car
+    2300022: Super car FL
+    2300024: Super Car FR
+    2300026: Super Car RL
+    2300028: Super Car RR
+    2300030: TEsla
+    2300032: Tesla FL
+    2300034: TEsla FR
+    2300036: TEsla RL
+    2300038: Tesla RR
+    3300000: Car
+    3300002: Lamboo
+    3300004: Lamboo FL
+    3300006: Lamboo FR
+    3300008: Lamboo RL
+    3300010: Lamboo RR
+    3300012: Mini Bus
+    3300014: Police car
+    3300016: Stadium
+    3300018: Stage
+    3300020: Super Car
+    3300022: Super car FL
+    3300024: Super Car FR
+    3300026: Super Car RL
+    3300028: Super Car RR
+    3300030: TEsla
+    3300032: Tesla FL
+    3300034: TEsla FR
+    3300036: TEsla RL
+    3300038: Tesla RR
+    4300000: Stadium
+    4300002: Stage
+    4300004: Police car
+    4300006: Car
+    4300008: Mini Bus
+    4300010: Lamboo
+    4300012: Super Car
+    4300014: TEsla
+    4300016: Tesla FL
+    4300018: TEsla RL
+    4300020: TEsla FR
+    4300022: Tesla RR
+    4300024: Super car FL
+    4300026: Super Car FR
+    4300028: Super Car RL
+    4300030: Super Car RR
+    4300032: Lamboo FL
+    4300034: Lamboo FR
+    4300036: Lamboo RL
+    4300038: Lamboo RR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 Lowpoly Cars
+    second: {fileID: 2100000, guid: e658ee05fcb78b14f97ac893977a4105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F40 Car
+    second: {fileID: 2100000, guid: 3c656c0fb197f4242859662f16574551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stadium
+    second: {fileID: 2100000, guid: 9071283e77ac86b4ab821d4282d7fbde, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

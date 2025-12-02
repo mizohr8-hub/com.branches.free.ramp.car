@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3e7bde8add744244aa51be703ac475a, type: 3}
+  m_Name: SchoolBus
+  m_EditorClassIdentifier: 
+  shopIndex: 3
+  fieldElement:
+    texture: {fileID: 2800000, guid: aacbde8c6b1be564c8d820dc9c07af9d, type: 3}
+    horizontalOffset: 4
+    verticalOffset: 4
+    size: {x: 3, y: 9}
+  challengeCar: 1
+  challengeCarObj: {fileID: 8770309061324832228, guid: b0d1d2c6291d5234e8d642cb91dbeca0, type: 3}

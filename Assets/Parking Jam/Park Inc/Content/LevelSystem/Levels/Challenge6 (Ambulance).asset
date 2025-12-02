@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6667c553d7dbc414e82d3468ce04b7f4, type: 3}
+  m_Name: Challenge6 (Ambulance)
+  m_EditorClassIdentifier: 
+  size: {x: 39, y: 39}
+  obstacles:
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 0, y: 36}
+    angle: 90
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 0, y: 33}
+    angle: 90
+  - element: {fileID: 11400000, guid: 935de41be0f4d144e8c8ee255d97fe34, type: 2}
+    position: {x: 38, y: 28}
+    angle: 90
+  - element: {fileID: 11400000, guid: 935de41be0f4d144e8c8ee255d97fe34, type: 2}
+    position: {x: 38, y: 31}
+    angle: 90
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 0, y: 18}
+    angle: 90
+  - element: {fileID: 11400000, guid: 935de41be0f4d144e8c8ee255d97fe34, type: 2}
+    position: {x: 38, y: 19}
+    angle: 90
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 0, y: 6}
+    angle: 90
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 30, y: 0}
+    angle: 0
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 33, y: 0}
+    angle: 0
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 5, y: 0}
+    angle: 0
+  - element: {fileID: 11400000, guid: 7247d3e48aef2d042af7db095bfea0e8, type: 2}
+    position: {x: 8, y: 0}
+    angle: 0
+  movableObjects:
+  - element: {fileID: 11400000, guid: 5fc852a57db221b4f839c99b9ecf0244, type: 2}
+    position: {x: 15, y: 18}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 14, y: 34}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 1, y: 25}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 36, y: 33}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 26, y: 26}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 33, y: 28}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 28, y: 36}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 11, y: 13}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 13, y: 12}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 15}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 32, y: 23}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 15}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 2, y: 16}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 21}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 31, y: 7}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 35, y: 14}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 13, y: 36}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 32}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 3, y: 9}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 11, y: 7}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 20, y: 9}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 3, y: 4}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 28, y: 2}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 32, y: 2}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 1}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 14, y: 4}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 1}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 21, y: 2}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 26, y: 2}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 22, y: 6}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 23, y: 8}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 21, y: 11}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 26, y: 12}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 14}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 18}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 29, y: 17}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 30, y: 11}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 31, y: 13}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 31, y: 21}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 34, y: 8}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 36, y: 2}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 10, y: 10}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 12, y: 7}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 4, y: 25}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 36}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 28}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 25}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 10, y: 23}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 8, y: 26}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 11, y: 33}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 16, y: 31}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 33}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 36}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 26, y: 32}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 34}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 29, y: 38}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 16, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 26}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 27}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 19, y: 25}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 19, y: 22}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 22, y: 19}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 35, y: 27}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 34, y: 28}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 38, y: 26}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 34, y: 38}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 1}
+    angle: 90
+  isBossLevel: 0
+  isChallenge: 1
+  hasNpcs: 0
+  nPCWalkPoints: []

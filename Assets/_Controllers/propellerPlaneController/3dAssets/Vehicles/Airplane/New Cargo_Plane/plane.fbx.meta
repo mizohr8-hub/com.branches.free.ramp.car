@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: fa2529d670b6ac84d9ffaab0b12ed8f0
+timeCreated: 1536560507
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axis
+    100002: cargo_doo
+    100004: cargo_door
+    100006: control
+    100008: control_1
+    100010: control_10
+    100012: control_11
+    100014: control_12
+    100016: control_2
+    100018: control_3
+    100020: control_4
+    100022: control_5
+    100024: control_6
+    100026: control_7
+    100028: control_8
+    100030: control_9
+    100032: control_su
+    100034: front_land
+    100036: front_lg_1
+    100038: front_lg_10
+    100040: front_lg_8
+    100042: fuselage
+    100044: Lg_left
+    100046: lg_Left_1
+    100048: lg_Left_6
+    100050: Lg_Right
+    100052: lg_Right_2
+    100054: lg_Right_3
+    100056: lg_Right_4
+    100058: lg_Right_5
+    100060: lg_Right_6
+    100062: lg_Right_9
+    100064: //RootNode
+    100066: Propeller
+    100068: Propeller_1
+    400000: Axis
+    400002: cargo_doo
+    400004: cargo_door
+    400006: control
+    400008: control_1
+    400010: control_10
+    400012: control_11
+    400014: control_12
+    400016: control_2
+    400018: control_3
+    400020: control_4
+    400022: control_5
+    400024: control_6
+    400026: control_7
+    400028: control_8
+    400030: control_9
+    400032: control_su
+    400034: front_land
+    400036: front_lg_1
+    400038: front_lg_10
+    400040: front_lg_8
+    400042: fuselage
+    400044: Lg_left
+    400046: lg_Left_1
+    400048: lg_Left_6
+    400050: Lg_Right
+    400052: lg_Right_2
+    400054: lg_Right_3
+    400056: lg_Right_4
+    400058: lg_Right_5
+    400060: lg_Right_6
+    400062: lg_Right_9
+    400064: //RootNode
+    400066: Propeller
+    400068: Propeller_1
+    2300000: cargo_doo
+    2300002: cargo_door
+    2300004: control
+    2300006: control_1
+    2300008: control_10
+    2300010: control_11
+    2300012: control_12
+    2300014: control_2
+    2300016: control_3
+    2300018: control_4
+    2300020: control_5
+    2300022: control_6
+    2300024: control_7
+    2300026: control_8
+    2300028: control_9
+    2300030: front_lg_1
+    2300032: front_lg_10
+    2300034: front_lg_8
+    2300036: fuselage
+    2300038: lg_Left_1
+    2300040: lg_Left_6
+    2300042: lg_Right_2
+    2300044: lg_Right_3
+    2300046: lg_Right_4
+    2300048: lg_Right_5
+    2300050: lg_Right_6
+    2300052: lg_Right_9
+    2300054: Propeller
+    2300056: Propeller_1
+    3300000: cargo_doo
+    3300002: cargo_door
+    3300004: control
+    3300006: control_1
+    3300008: control_10
+    3300010: control_11
+    3300012: control_12
+    3300014: control_2
+    3300016: control_3
+    3300018: control_4
+    3300020: control_5
+    3300022: control_6
+    3300024: control_7
+    3300026: control_8
+    3300028: control_9
+    3300030: front_lg_1
+    3300032: front_lg_10
+    3300034: front_lg_8
+    3300036: fuselage
+    3300038: lg_Left_1
+    3300040: lg_Left_6
+    3300042: lg_Right_2
+    3300044: lg_Right_3
+    3300046: lg_Right_4
+    3300048: lg_Right_5
+    3300050: lg_Right_6
+    3300052: lg_Right_9
+    3300054: Propeller
+    3300056: Propeller_1
+    4300000: cargo_door
+    4300002: cargo_doo
+    4300004: control
+    4300006: control_1
+    4300008: control_2
+    4300010: control_3
+    4300012: control_4
+    4300014: control_5
+    4300016: control_6
+    4300018: control_7
+    4300020: control_8
+    4300022: control_9
+    4300024: control_10
+    4300026: control_11
+    4300028: control_12
+    4300030: front_lg_8
+    4300032: front_lg_10
+    4300034: lg_Left_6
+    4300036: lg_Right_2
+    4300038: lg_Right_3
+    4300040: lg_Right_4
+    4300042: lg_Right_5
+    4300044: lg_Right_6
+    4300046: lg_Right_9
+    4300048: Propeller
+    4300050: Propeller_1
+    4300052: lg_Left_1
+    4300054: front_lg_1
+    4300056: fuselage
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 750
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

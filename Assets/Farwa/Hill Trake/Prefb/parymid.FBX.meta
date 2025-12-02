@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 3143bebe624f0bc42a4ea0b730f365d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 124-_UniqueID_842
+    100002: 132-_temple2_2
+    100004: 134-_temple2_3
+    100006: 18-_minipyramids_1
+    100008: 24-_Obelisk
+    100010: 24-_Obelisk001
+    100012: 32-_pyramid2_1
+    100014: 34-_pyramid2_2
+    100016: Box002
+    100018: Box005
+    100020: Box006
+    100022: Box019
+    100024: Box031
+    100026: Box032
+    100028: Box035
+    100030: Box036
+    100032: Box043
+    100034: Box044
+    100036: Box047
+    100038: Box049
+    100040: Box059
+    100042: Box060
+    100044: Box063
+    100046: Box064
+    100048: Box071
+    100050: Box072
+    100052: Box075
+    100054: Box077
+    100056: Box079
+    100058: Box080
+    100060: Box081
+    100062: Box082
+    100064: Box083
+    100066: Box084
+    100068: Group001
+    100070: Group002
+    100072: //RootNode
+    100074: Plane001
+    400000: 124-_UniqueID_842
+    400002: 132-_temple2_2
+    400004: 134-_temple2_3
+    400006: 18-_minipyramids_1
+    400008: 24-_Obelisk
+    400010: 24-_Obelisk001
+    400012: 32-_pyramid2_1
+    400014: 34-_pyramid2_2
+    400016: Box002
+    400018: Box005
+    400020: Box006
+    400022: Box019
+    400024: Box031
+    400026: Box032
+    400028: Box035
+    400030: Box036
+    400032: Box043
+    400034: Box044
+    400036: Box047
+    400038: Box049
+    400040: Box059
+    400042: Box060
+    400044: Box063
+    400046: Box064
+    400048: Box071
+    400050: Box072
+    400052: Box075
+    400054: Box077
+    400056: Box079
+    400058: Box080
+    400060: Box081
+    400062: Box082
+    400064: Box083
+    400066: Box084
+    400068: Group001
+    400070: Group002
+    400072: //RootNode
+    400074: Plane001
+    2100000: 'Material #29'
+    2100002: 'Material #233'
+    2100004: 'Material #2210'
+    2100006: 'Material #26'
+    2300000: 124-_UniqueID_842
+    2300002: 132-_temple2_2
+    2300004: 134-_temple2_3
+    2300006: 18-_minipyramids_1
+    2300008: 24-_Obelisk
+    2300010: 24-_Obelisk001
+    2300012: 32-_pyramid2_1
+    2300014: 34-_pyramid2_2
+    2300016: Box002
+    2300018: Box005
+    2300020: Box006
+    2300022: Box019
+    2300024: Box031
+    2300026: Box032
+    2300028: Box035
+    2300030: Box036
+    2300032: Box043
+    2300034: Box044
+    2300036: Box047
+    2300038: Box049
+    2300040: Box059
+    2300042: Box060
+    2300044: Box063
+    2300046: Box064
+    2300048: Box071
+    2300050: Box072
+    2300052: Box075
+    2300054: Box077
+    2300056: Box079
+    2300058: Box080
+    2300060: Box081
+    2300062: Box082
+    2300064: Box083
+    2300066: Box084
+    2300068: Plane001
+    3300000: 124-_UniqueID_842
+    3300002: 132-_temple2_2
+    3300004: 134-_temple2_3
+    3300006: 18-_minipyramids_1
+    3300008: 24-_Obelisk
+    3300010: 24-_Obelisk001
+    3300012: 32-_pyramid2_1
+    3300014: 34-_pyramid2_2
+    3300016: Box002
+    3300018: Box005
+    3300020: Box006
+    3300022: Box019
+    3300024: Box031
+    3300026: Box032
+    3300028: Box035
+    3300030: Box036
+    3300032: Box043
+    3300034: Box044
+    3300036: Box047
+    3300038: Box049
+    3300040: Box059
+    3300042: Box060
+    3300044: Box063
+    3300046: Box064
+    3300048: Box071
+    3300050: Box072
+    3300052: Box075
+    3300054: Box077
+    3300056: Box079
+    3300058: Box080
+    3300060: Box081
+    3300062: Box082
+    3300064: Box083
+    3300066: Box084
+    3300068: Plane001
+    4300000: 18-_minipyramids_1
+    4300002: 24-_Obelisk
+    4300004: 134-_temple2_3
+    4300006: 132-_temple2_2
+    4300008: 124-_UniqueID_842
+    4300010: 34-_pyramid2_2
+    4300012: 32-_pyramid2_1
+    4300014: Plane001
+    4300016: Box002
+    4300018: Box005
+    4300020: Box006
+    4300022: Box019
+    4300024: Box031
+    4300026: Box032
+    4300028: Box035
+    4300030: Box036
+    4300032: Box043
+    4300034: Box044
+    4300036: Box047
+    4300038: Box049
+    4300040: Box059
+    4300042: Box060
+    4300044: Box063
+    4300046: Box064
+    4300048: Box071
+    4300050: Box072
+    4300052: Box075
+    4300054: Box077
+    4300056: Box079
+    4300058: Box080
+    4300060: Box081
+    4300062: Box082
+    4300064: Box083
+    4300066: Box084
+    4300068: 24-_Obelisk001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2210'
+    second: {fileID: 2100000, guid: 97440dcef08b56a449f2515f2efe61c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #233'
+    second: {fileID: 2100000, guid: 983cc6f400f537a46bbadbd575af4c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: dbbf6db002817f34d9a01aafc25a0d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 2ed11c877fa598a4d8edd86adadec631, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 15_column1
+    second: {fileID: 2800000, guid: 8384a46ff0faf5144b75766cfd5e5049, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9_column3
+    second: {fileID: 2800000, guid: 67ba2fdb8a06c0947b3a731d4e8287cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas
+    second: {fileID: 2800000, guid: cfbdac0858a0035438fcd5566ec3651a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: image
+    second: {fileID: 2800000, guid: 2216df959d1264849b7045bf14a6b113, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

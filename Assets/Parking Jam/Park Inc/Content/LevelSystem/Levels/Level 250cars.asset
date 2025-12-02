@@ -1,0 +1,768 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6667c553d7dbc414e82d3468ce04b7f4, type: 3}
+  m_Name: Level 250cars
+  m_EditorClassIdentifier: 
+  size: {x: 75, y: 70}
+  obstacles: []
+  movableObjects:
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 72, y: 1}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 3, y: 5}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 3}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 10}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 8}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 11}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 4, y: 14}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 14}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 19}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 20}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 3, y: 20}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 19}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 27}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 2, y: 32}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 25}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 30}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 33}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 37}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 33}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 10, y: 0}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 10, y: 8}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 8, y: 9}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 13, y: 15}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 11, y: 23}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 8, y: 26}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 13, y: 27}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 11, y: 37}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 17, y: 35}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 12, y: 30}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 30}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 16, y: 29}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 12, y: 18}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 17, y: 24}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 15, y: 14}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 16, y: 11}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 16, y: 8}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 11, y: 2}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 18, y: 0}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 14, y: 3}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 22, y: 3}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 17, y: 6}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 20, y: 6}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 23, y: 12}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 17}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 19}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 21, y: 19}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 17, y: 28}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 29}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 37}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 21, y: 29}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 24, y: 26}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 28, y: 35}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 29}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 23}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 28, y: 18}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 13}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 13}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 28, y: 10}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 23, y: 9}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 23, y: 2}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 26, y: 0}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 29, y: 6}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 30, y: 32}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 30, y: 27}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 30, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 29, y: 20}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 30, y: 12}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 31, y: 4}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 33, y: 37}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 33, y: 34}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 33, y: 27}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 36, y: 26}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 34, y: 15}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 35, y: 14}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 32, y: 8}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 32, y: 5}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 38, y: 32}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 38, y: 31}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 43, y: 37}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 44, y: 29}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 37, y: 26}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 37, y: 23}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 37, y: 20}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 37, y: 12}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 40, y: 12}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 37, y: 11}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 42, y: 6}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 38, y: 5}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 36, y: 0}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 37, y: 2}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 44, y: 37}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 45, y: 29}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 43, y: 28}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 45, y: 25}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 46, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 43, y: 19}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 43, y: 16}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 43, y: 9}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 46, y: 9}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 44, y: 8}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 44, y: 1}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 4, y: 38}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 4, y: 42}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 6, y: 39}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 14, y: 42}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 9, y: 41}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 38}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 23, y: 42}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 41}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 24, y: 39}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 44}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 27, y: 41}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 33, y: 39}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 36, y: 44}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 36, y: 41}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 47, y: 42}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 46, y: 39}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 45}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 8, y: 47}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 9, y: 49}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 15, y: 45}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 22, y: 46}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 23, y: 48}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 28, y: 49}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 39, y: 45}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 40, y: 49}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 46, y: 45}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 50}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 53}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 3, y: 57}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 9, y: 51}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 50}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 10, y: 59}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 13, y: 51}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 16, y: 59}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 56}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 21, y: 55}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 22, y: 59}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 22, y: 51}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 26, y: 51}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 31, y: 55}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 32, y: 57}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 35, y: 49}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 34, y: 55}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 38, y: 54}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 39, y: 53}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 46, y: 57}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 42, y: 56}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 44, y: 53}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 48, y: 55}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 51, y: 59}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 51, y: 52}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 55, y: 51}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 49, y: 51}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 49, y: 48}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 59, y: 47}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 48, y: 40}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 51, y: 44}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 56, y: 39}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 49, y: 38}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 56, y: 42}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 58, y: 38}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 54, y: 33}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 49, y: 31}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 56, y: 27}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 54, y: 25}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 49, y: 18}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 58, y: 22}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 52, y: 21}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 57, y: 16}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 49, y: 13}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 53, y: 15}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 57, y: 8}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 56, y: 12}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 50, y: 8}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 51, y: 7}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 55, y: 6}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 54, y: 6}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 0, y: 59}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 7, y: 59}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 8, y: 62}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 9, y: 64}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 16, y: 60}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 24, y: 62}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 26, y: 62}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 32, y: 60}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 38, y: 60}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 47, y: 61}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 48, y: 63}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 61, y: 62}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 57, y: 61}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 62, y: 53}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 61, y: 58}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 62, y: 52}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 59, y: 45}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 63, y: 40}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 64, y: 36}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 60, y: 30}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 62, y: 29}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 60, y: 23}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 63, y: 18}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 58, y: 17}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 60, y: 10}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 62, y: 9}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 59, y: 1}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 60, y: 3}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 5, y: 67}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 6, y: 68}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 16, y: 67}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 18, y: 69}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 25, y: 63}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 28, y: 64}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 32, y: 69}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 42, y: 67}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 45, y: 64}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 49, y: 64}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 52, y: 69}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 60, y: 69}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 61, y: 69}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 67, y: 65}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 62, y: 64}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 62, y: 61}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 67, y: 55}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 68, y: 54}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 63, y: 48}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 68, y: 48}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 69, y: 40}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 67, y: 34}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 63, y: 33}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 63, y: 25}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 66, y: 26}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 68, y: 25}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 69, y: 18}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 64, y: 16}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 68, y: 10}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 68, y: 7}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 64, y: 6}
+    angle: 270
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 70, y: 65}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 72, y: 63}
+    angle: 180
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 74, y: 52}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 71, y: 45}
+    angle: 0
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 72, y: 43}
+    angle: 180
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 74, y: 34}
+    angle: 90
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 70, y: 32}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 74, y: 27}
+    angle: 90
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 70, y: 21}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 70, y: 20}
+    angle: 270
+  - element: {fileID: 11400000, guid: 53db0ed71fa37914ab57dbddf5a614ce, type: 2}
+    position: {x: 70, y: 11}
+    angle: 0
+  - element: {fileID: 11400000, guid: 6f0f36b57d03da147ab2b94c647deea1, type: 2}
+    position: {x: 72, y: 9}
+    angle: 180
+  isBossLevel: 1

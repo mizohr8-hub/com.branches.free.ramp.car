@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 5ff98b8234c1d4d4884fc951908dca46
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_5
+    100002: //RootNode
+    100004: tires_1_4
+    100006: tires_2_5
+    100008: tires_3_5
+    100010: tires_4_2
+    400000: body_5
+    400002: //RootNode
+    400004: tires_1_4
+    400006: tires_2_5
+    400008: tires_3_5
+    400010: tires_4_2
+    2100000: carbase.16
+    2100002: car5body
+    2100004: GLASS.16
+    2100006: car5tyre.1
+    2100008: tire.20
+    2100010: car5tyre.2
+    2100012: tire.21
+    2100014: car5tyre.3
+    2100016: tire.22
+    2100018: car5tyre.4
+    2100020: tire.23
+    2300000: body_5
+    2300002: tires_1_4
+    2300004: tires_2_5
+    2300006: tires_3_5
+    2300008: tires_4_2
+    3300000: body_5
+    3300002: tires_1_4
+    3300004: tires_2_5
+    3300006: tires_3_5
+    3300008: tires_4_2
+    4300000: body_5
+    4300002: tires_4_2
+    4300004: tires_3_5
+    4300006: tires_2_5
+    4300008: tires_1_4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS.16
+    second: {fileID: 2100000, guid: 51f0b3c991eebdb4bbf0b18f34230b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car5body
+    second: {fileID: 2100000, guid: 401b0e3cacecfae448e18be4079f65ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car5tyre.1
+    second: {fileID: 2100000, guid: c376cc6bd287bda4c877d8275672f298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car5tyre.2
+    second: {fileID: 2100000, guid: c376cc6bd287bda4c877d8275672f298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car5tyre.3
+    second: {fileID: 2100000, guid: c376cc6bd287bda4c877d8275672f298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: car5tyre.4
+    second: {fileID: 2100000, guid: c376cc6bd287bda4c877d8275672f298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbase.16
+    second: {fileID: 2100000, guid: c376cc6bd287bda4c877d8275672f298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire.20
+    second: {fileID: 2100000, guid: 568274c74ee5e6646a52e967ff1fb9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire.21
+    second: {fileID: 2100000, guid: 568274c74ee5e6646a52e967ff1fb9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire.22
+    second: {fileID: 2100000, guid: 568274c74ee5e6646a52e967ff1fb9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire.23
+    second: {fileID: 2100000, guid: 568274c74ee5e6646a52e967ff1fb9b1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 50
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

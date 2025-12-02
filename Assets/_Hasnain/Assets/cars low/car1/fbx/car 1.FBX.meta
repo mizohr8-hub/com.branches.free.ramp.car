@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 8c2a24ea28513ea42ad36659a4ed4f39
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car_5_LOD0
+    100004: Wheels_FL_LOD0
+    100006: Wheels_FR_LOD0
+    100008: Wheels_RL_LOD0
+    100010: Wheels_RR_LOD0
+    100012: Wheels_RL_LOD001
+    100014: Wheels_RL_LOD002
+    100016: Wheels_FR_LOD001
+    100018: Wheels_FR_LOD002
+    100020: Wheels_FR_LOD003
+    400000: //RootNode
+    400002: Car_5_LOD0
+    400004: Wheels_FL_LOD0
+    400006: Wheels_FR_LOD0
+    400008: Wheels_RL_LOD0
+    400010: Wheels_RR_LOD0
+    400012: Wheels_RL_LOD001
+    400014: Wheels_RL_LOD002
+    400016: Wheels_FR_LOD001
+    400018: Wheels_FR_LOD002
+    400020: Wheels_FR_LOD003
+    2100000: Car_5_Body
+    2100002: Car_5_Light
+    2100004: Glass
+    2100006: Glass_light
+    2100008: Disco
+    2100010: Tire3
+    2100012: Tire1
+    2100014: Tread
+    2300000: Car_5_LOD0
+    2300002: Wheels_FL_LOD0
+    2300004: Wheels_FR_LOD0
+    2300006: Wheels_RL_LOD0
+    2300008: Wheels_RR_LOD0
+    2300010: Wheels_RL_LOD001
+    2300012: Wheels_RL_LOD002
+    2300014: Wheels_FR_LOD001
+    2300016: Wheels_FR_LOD002
+    2300018: Wheels_FR_LOD003
+    3300000: Car_5_LOD0
+    3300002: Wheels_FL_LOD0
+    3300004: Wheels_FR_LOD0
+    3300006: Wheels_RL_LOD0
+    3300008: Wheels_RR_LOD0
+    3300010: Wheels_RL_LOD001
+    3300012: Wheels_RL_LOD002
+    3300014: Wheels_FR_LOD001
+    3300016: Wheels_FR_LOD002
+    3300018: Wheels_FR_LOD003
+    4300000: Car_5_LOD0
+    4300002: Wheels_RL_LOD0
+    4300004: Wheels_FL_LOD0
+    4300006: Wheels_RR_LOD0
+    4300008: Wheels_FR_LOD0
+    4300010: Wheels_RL_LOD001
+    4300012: Wheels_RL_LOD002
+    4300014: Wheels_FR_LOD001
+    4300016: Wheels_FR_LOD002
+    4300018: Wheels_FR_LOD003
+    7400000: Take 001
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_5_Body
+    second: {fileID: 2100000, guid: d6064867dbde358478faef307fe78807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_5_Light
+    second: {fileID: 2100000, guid: 96169aec8dad79e4ca5ace0bc1ed70f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disco
+    second: {fileID: 2100000, guid: 8a605c79f1139954f9070ae31cf136ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 43683b304e2cb3a41afd4ccdd0389b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_light
+    second: {fileID: 2100000, guid: 8ccc0a2593269584a8604ee67a3ffc3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #157 Slot #3'
+    second: {fileID: 2100000, guid: 6a432e221775d2f488ed997c216f13ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #157 Slot #7'
+    second: {fileID: 2100000, guid: a26296b44a501fd4ea1481ea34f71f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 6608d9a1dfefffc458a790e236142af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #46'
+    second: {fileID: 2100000, guid: 9e9a5a26ff0aa5640b40632a296fe4f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #80'
+    second: {fileID: 2100000, guid: ec4b22b7aec39064d92da89ecaa99956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire1
+    second: {fileID: 2100000, guid: 1d2e7d2c022349a429e11b39ed9246b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire3
+    second: {fileID: 2100000, guid: bb78ebf458c41f84b86a8dc11737c61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tread
+    second: {fileID: 2100000, guid: 268de5d6ae6d50c4a861959577ed1179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base
+    second: {fileID: 2100000, guid: f3fb2a55c90f47146b563c6ad3d8802d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disk
+    second: {fileID: 2100000, guid: e65322f1b951b4b4b8a752c778bd614b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 2cbc7de2e902f7f4cac12883f9b668d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 2
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3e7bde8add744244aa51be703ac475a, type: 3}
+  m_Name: PoliceCar
+  m_EditorClassIdentifier: 
+  shopIndex: 1
+  fieldElement:
+    texture: {fileID: 2800000, guid: de07363fda955334dbbddac23d82835d, type: 3}
+    horizontalOffset: 4
+    verticalOffset: 4
+    size: {x: 3, y: 6}
+  challengeCar: 1
+  challengeCarObj: {fileID: 1946383039968853058, guid: c827de91b221ce341a5a0b177c710ecf, type: 3}

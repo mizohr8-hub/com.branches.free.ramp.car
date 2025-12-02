@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: d315b14675ac5a6429c0f17851ba9da9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel_v1_LD1__17_
+    100004: Box002
+    100006: Box004
+    100008: CinderBlock
+    100010: Cylinder004
+    100012: Line001
+    100014: Road_block_v1__48_002
+    100016: Short barrier
+    100018: SpeedBoosterVar02
+    100020: tire
+    100022: Traffic cone 1
+    100024: Tyre
+    100026: Tyre.001
+    100028: Tyre.002
+    100030: Wind_turbine_001_Blades
+    100032: Wind_turbine_001_Pillar
+    100034: Windmill
+    400000: //RootNode
+    400002: Barrel_v1_LD1__17_
+    400004: Box002
+    400006: Box004
+    400008: CinderBlock
+    400010: Cylinder004
+    400012: Line001
+    400014: Road_block_v1__48_002
+    400016: Short barrier
+    400018: SpeedBoosterVar02
+    400020: tire
+    400022: Traffic cone 1
+    400024: Tyre
+    400026: Tyre.001
+    400028: Tyre.002
+    400030: Wind_turbine_001_Blades
+    400032: Wind_turbine_001_Pillar
+    400034: Windmill
+    2100000: 'Material #25'
+    2300000: Barrel_v1_LD1__17_
+    2300002: Box002
+    2300004: Box004
+    2300006: CinderBlock
+    2300008: Cylinder004
+    2300010: Line001
+    2300012: Road_block_v1__48_002
+    2300014: Short barrier
+    2300016: SpeedBoosterVar02
+    2300018: tire
+    2300020: Traffic cone 1
+    2300022: Tyre
+    2300024: Tyre.001
+    2300026: Tyre.002
+    2300028: Wind_turbine_001_Blades
+    2300030: Wind_turbine_001_Pillar
+    3300000: Barrel_v1_LD1__17_
+    3300002: Box002
+    3300004: Box004
+    3300006: CinderBlock
+    3300008: Cylinder004
+    3300010: Line001
+    3300012: Road_block_v1__48_002
+    3300014: Short barrier
+    3300016: SpeedBoosterVar02
+    3300018: tire
+    3300020: Traffic cone 1
+    3300022: Tyre
+    3300024: Tyre.001
+    3300026: Tyre.002
+    3300028: Wind_turbine_001_Blades
+    3300030: Wind_turbine_001_Pillar
+    4300000: Traffic cone 1
+    4300002: Wind_turbine_001_Pillar
+    4300004: Wind_turbine_001_Blades
+    4300006: CinderBlock
+    4300008: Tyre
+    4300010: SpeedBoosterVar02
+    4300012: Tyre.001
+    4300014: Tyre.002
+    4300016: Box002
+    4300018: Cylinder004
+    4300020: Box004
+    4300022: Barrel_v1_LD1__17_
+    4300024: tire
+    4300026: Road_block_v1__48_002
+    4300028: Short barrier
+    4300030: Line001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 663c071a286d7fc4aa0ae701f2857aa4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

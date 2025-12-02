@@ -1,0 +1,6 @@
+How to create new levels ?
+
+1.Create new scene
+2.Drag and drop MainCamera,Everylevel,Sling,Boundary,GameManagerNew and ButtonCanvas
+prefab from prefab folder to scene this is important prefab for every level
+3. then drag and drop pin holder in scene this is a prefab we are going to shoot 

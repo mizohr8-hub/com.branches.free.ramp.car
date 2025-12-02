@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 719699e9a533722409029d43f3d1062f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BulbTree_low
+    100004: cliff001_low
+    100006: cliff002_low
+    100008: cliff003_low
+    100010: crags_low
+    100012: grot_low
+    100014: leaf_tree_low
+    100016: mountain2_low
+    100018: mountain_low
+    100020: Stone001_low
+    100022: Stone002_low
+    100024: Stone003_low
+    400000: //RootNode
+    400002: BulbTree_low
+    400004: cliff001_low
+    400006: cliff002_low
+    400008: cliff003_low
+    400010: crags_low
+    400012: grot_low
+    400014: leaf_tree_low
+    400016: mountain2_low
+    400018: mountain_low
+    400020: Stone001_low
+    400022: Stone002_low
+    400024: Stone003_low
+    2100000: rocks&trees
+    2100002: rocks2
+    2300000: BulbTree_low
+    2300002: cliff001_low
+    2300004: cliff002_low
+    2300006: cliff003_low
+    2300008: crags_low
+    2300010: grot_low
+    2300012: leaf_tree_low
+    2300014: mountain2_low
+    2300016: mountain_low
+    2300018: Stone001_low
+    2300020: Stone002_low
+    2300022: Stone003_low
+    3300000: BulbTree_low
+    3300002: cliff001_low
+    3300004: cliff002_low
+    3300006: cliff003_low
+    3300008: crags_low
+    3300010: grot_low
+    3300012: leaf_tree_low
+    3300014: mountain2_low
+    3300016: mountain_low
+    3300018: Stone001_low
+    3300020: Stone002_low
+    3300022: Stone003_low
+    4300000: mountain_low
+    4300002: leaf_tree_low
+    4300004: BulbTree_low
+    4300006: cliff001_low
+    4300008: cliff002_low
+    4300010: cliff003_low
+    4300012: Stone001_low
+    4300014: Stone003_low
+    4300016: Stone002_low
+    4300018: crags_low
+    4300020: grot_low
+    4300022: mountain2_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rocks&trees
+    second: {fileID: 2100000, guid: aa600c9f5110f544c9278833f6306fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rocks2
+    second: {fileID: 2100000, guid: d4e248ee96fbcbc40a080cc25ee25a7a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
