@@ -1,2 +1,0 @@
-find . -size +100M -printf '%P\n' >> .gitignore
-find . -size +100M -not -path './.git/*' >> .gitignore
